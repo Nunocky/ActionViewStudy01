@@ -3,4 +3,6 @@ Android UI Cookbook for 4.0より : support libraryの ActionBarで ActionView�
 
 3.5章「アクションバーにアクションビューを配置する」を support libraryで実装してみたのだが、下のようにビューの幅が非常に狭くなってしまう。
 
+![screensho](https://github.com/Nunocky/ActionViewStudy01/blob/master/doc/scr.png)
+
 どうやって直せばいいんだろう。スタイルの定義に問題が？
